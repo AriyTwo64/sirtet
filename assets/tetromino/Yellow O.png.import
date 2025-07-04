@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bxufa8avrh2gr"
-path="res://.godot/imported/Red Z.png-d015a727271427d7ecc566ca14287d79.ctex"
+uid="uid://bwwdsle6qs1rp"
+path="res://.godot/imported/Yellow O.png-e68298dec81c6fbaf41dc5400191bb53.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asets/rtetomino/Red Z.png"
-dest_files=["res://.godot/imported/Red Z.png-d015a727271427d7ecc566ca14287d79.ctex"]
+source_file="res://assets/tetromino/Yellow O.png"
+dest_files=["res://.godot/imported/Yellow O.png-e68298dec81c6fbaf41dc5400191bb53.ctex"]
 
 [params]
 

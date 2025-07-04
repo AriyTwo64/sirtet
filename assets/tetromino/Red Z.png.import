@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dqhbuw26ftatl"
-path="res://.godot/imported/Purple T.png-76b7b74f4a3053ad41108a67767babfb.ctex"
+uid="uid://bxufa8avrh2gr"
+path="res://.godot/imported/Red Z.png-81e9d7d873b7561aa626a9c8ca598e8e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asets/rtetomino/Purple T.png"
-dest_files=["res://.godot/imported/Purple T.png-76b7b74f4a3053ad41108a67767babfb.ctex"]
+source_file="res://assets/tetromino/Red Z.png"
+dest_files=["res://.godot/imported/Red Z.png-81e9d7d873b7561aa626a9c8ca598e8e.ctex"]
 
 [params]
 

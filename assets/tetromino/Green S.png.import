@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bwwdsle6qs1rp"
-path="res://.godot/imported/Yellow O.png-bcc07136dfbd5a3b58757c77ee67909e.ctex"
+uid="uid://c07wk2j5qmw5v"
+path="res://.godot/imported/Green S.png-d93c6094a3aae076ba778fe41a1b10a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asets/rtetomino/Yellow O.png"
-dest_files=["res://.godot/imported/Yellow O.png-bcc07136dfbd5a3b58757c77ee67909e.ctex"]
+source_file="res://assets/tetromino/Green S.png"
+dest_files=["res://.godot/imported/Green S.png-d93c6094a3aae076ba778fe41a1b10a5.ctex"]
 
 [params]
 

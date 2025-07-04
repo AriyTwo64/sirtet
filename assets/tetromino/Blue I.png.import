@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c07wk2j5qmw5v"
-path="res://.godot/imported/Green S.png-90b503f7e7fd80baecfa31af7811ece5.ctex"
+uid="uid://o052i80a5bvx"
+path="res://.godot/imported/Blue I.png-380fe59286727d84e5a2e4de7d76e75a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://asets/rtetomino/Green S.png"
-dest_files=["res://.godot/imported/Green S.png-90b503f7e7fd80baecfa31af7811ece5.ctex"]
+source_file="res://assets/tetromino/Blue I.png"
+dest_files=["res://.godot/imported/Blue I.png-380fe59286727d84e5a2e4de7d76e75a.ctex"]
 
 [params]
 
